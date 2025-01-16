@@ -7,7 +7,7 @@ The game assets were sourced from [itch.io](https://itch.io) and adjusted to fit
 
 **Note:** Unfortunately, the `.py` source files were lost during the process and are still being retrieved. Currently, only the executable (.exe) and assets are available.
 
-## Demo Video
+## Demo 
 ### Playing demo
 ![Image](https://github.com/user-attachments/assets/dfa16f7d-c45f-4484-866e-70a818fc3cb7)
 
