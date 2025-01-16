@@ -8,13 +8,16 @@ The game assets were sourced from [itch.io](https://itch.io) and adjusted to fit
 **Note:** Unfortunately, the `.py` source files were lost during the process and are still being retrieved. Currently, only the executable (.exe) and assets are available.
 
 ## Demo Video
-**Playing demo**
+### Playing demo
 ![Image](https://github.com/user-attachments/assets/dfa16f7d-c45f-4484-866e-70a818fc3cb7)
-**Main menu**
+
+### Main menu
 ![Image](https://github.com/user-attachments/assets/8164233a-9c2f-4ca4-b85f-5f754a3f0a3e)
-**Control guide**
+
+### Control guide
 ![Image](https://github.com/user-attachments/assets/19d311a3-26a1-48f6-a458-cf423937d85d)
-**Pause section**
+
+### Pause section
 ![Image](https://github.com/user-attachments/assets/7f37d4b5-a0ed-40d6-85df-abe3ce52d51d)
 
 ## How to Install and Run
